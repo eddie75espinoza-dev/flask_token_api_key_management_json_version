@@ -581,6 +581,8 @@ flask tokens list --issued-to "cliente-sospechoso"
 
 ---
 
-**Última actualización**: 2025-10-17
-**Versión**: 2.0.0
+## Documentación Completa
 
+- **README Principal**: [README.md](../../README.md)
+- **Inicio Rápido**: [QUICKSTART.md](QUICKSTART.md)
+- **CLI Tools**: [scripts/README.md](../scripts/README.md)
