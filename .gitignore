@@ -1,0 +1,14 @@
+__pycache__
+app.egg-info
+*.pyc
+.mypy_cache
+.coverage
+.coveragerc
+htmlcov
+.cache
+.venv
+.env
+# .env.example
+.pytest_cache/
+.vscode 
+*.log
