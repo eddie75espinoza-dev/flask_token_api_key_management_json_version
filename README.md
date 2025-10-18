@@ -1,5 +1,11 @@
 # Flask Middleware
 
+
+![Static Badge](https://img.shields.io/badge/Estatus-En%20Desarrollo-yellow)
+![Static Badge](https://img.shields.io/badge/Pruebas-Passing-green)
+![Static Badge](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue)
+
+
 Sistema de middleware JWT para Flask con soporte para múltiples clientes, revocación selectiva de tokens y auditoría completa. Diseñado para ser flexible, escalable y fácil de mantener sin necesidad de base de datos.
 
 ## Características Principales
